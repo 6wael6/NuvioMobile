@@ -110,3 +110,5 @@ jobs:
           path: build/ios-ipa/*.ipa
           if-no-files-found: error
           retention-days: 7
+
+# Registered in fork for self-hosted iOS builds.
